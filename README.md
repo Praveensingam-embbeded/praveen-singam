@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi This is praveen singam 👋</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from Guntur <br><br>- 🔭 I am Fresher<br>- 📚 I have learn Embedded system<br>- ⚡ In my free time I do spent on creative things</p>
 
 ###
 
