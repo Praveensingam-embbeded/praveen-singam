@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from Guntur <br><br>- 🔭 I am Fresher<br>- 📚 I have learn Embedded system<br>- ⚡ In my free time I do spent on creative things</p>
+<p align="left">I'm from Guntur <br><br>- 🔭 I am a  Fresher<br>- 📚 I have learn Embedded system<br>- ⚡ In my free time I do spent on creative things</p>
 
 ###
 
