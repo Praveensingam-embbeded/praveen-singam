@@ -10,6 +10,8 @@
 
 - Internship [Worked as a Hardware programmer at TESSOVLE Semiconductor PVT](Worked as a Hardware programmer at TESSOVLE Semiconductor PVT)
 
+- 📫 How to reach me **singampraveenkoushik@gmail.com**
+
 - 📄 Know about my experiences [file:///C:/Users/lenovo/OneDrive/Desktop/SINGAM_SIVA_DATTA_PRAVEEN_KOUHIK_ECE.pdf](file:///C:/Users/lenovo/OneDrive/Desktop/SINGAM_SIVA_DATTA_PRAVEEN_KOUHIK_ECE.pdf)
 
 <h3 align="left">Connect with me:</h3>
