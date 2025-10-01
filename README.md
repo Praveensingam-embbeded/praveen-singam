@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-singam&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-singam" /> </p>
 
-- 🔭 I’m a Fresher **B.Tech ECE Specliazation in IOT**
+- 🔭 I’m a Fresher **B.Tech in Electronics and Communications Engineering with Specliazation in IOT**
 
 - 🌱 I have learn **Embedded systems,c,python and IOT technologies**
 
