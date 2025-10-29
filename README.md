@@ -8,6 +8,8 @@
 
 - 🌱 I have learn **Embedded systems,c,python and IOT technologies**
 
+- Under went training as "Embedded Engineer" in Vector India,Hyderabad. 
+
 - Internship [Worked as a Hardware programmer at TESSOVLE Semiconductor PVT](Worked as a Hardware programmer at TESSOVLE Semiconductor PVT)
 
 - 📫 How to reach me **singampraveenkoushik@gmail.com**
