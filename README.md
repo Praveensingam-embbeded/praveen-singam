@@ -11,10 +11,11 @@
 - Under went training as "Embedded Engineer" in Vector India,Hyderabad. 
 
 - Internship [Worked as a Hardware programmer at TESSOVLE Semiconductor PVT]
+- Now i am working as systems Engineer at Navwave Systems Pvt Ltd
 
 - 📫 How to reach me **singampraveenkoushik@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/lenovo/OneDrive/Desktop/SINGAM_SIVA_DATTA_PRAVEEN_KOUHIK_ECE.pdf](file:///C:/Users/lenovo/OneDrive/Desktop/SINGAM_SIVA_DATTA_PRAVEEN_KOUHIK_ECE.pdf)
+- 📄 Know about my experiences (I am currently working as System Engineer at Navwave systems Pvt Ltd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
